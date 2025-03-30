@@ -1,4 +1,4 @@
-package learn.school.service;
+package learn.school.repository;
 
 import learn.school.entity.User;
 import org.springframework.data.domain.Page;

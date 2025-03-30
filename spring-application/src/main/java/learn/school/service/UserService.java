@@ -1,4 +1,6 @@
-package learn.school.repository;
+package learn.school.service;
+
+import learn.school.dto.UserDto;
 
 public interface UserService {
 

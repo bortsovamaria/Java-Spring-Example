@@ -1,4 +1,4 @@
-package learn.school.repository;
+package learn.school.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
